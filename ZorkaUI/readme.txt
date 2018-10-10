@@ -1,2 +1,2 @@
 
-Here added code in angular to consume the api
+Here add code in angular to consume the api
